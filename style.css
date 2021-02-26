@@ -1,0 +1,73 @@
+#question1 h1
+{
+    position: relative;
+    left: 20px;
+     top: 30px;
+
+}
+
+#question2 p
+{
+    font-size:60px;
+    font-style:
+     italic;
+     font-weight: bold;
+     color: green;
+     text-align: center;
+}
+
+#question4 p
+{
+    float: left;
+}
+
+.question6 .images
+{
+   height: 300px;
+   width: 350px;
+   float: left;
+   margin: 10px;
+}
+
+#question7 table,td,th
+{
+    border: 2px solid black;
+     text-align: center;
+     width: 80%;
+     border-collapse: collapse;
+     padding: 20px;
+
+     
+}
+#question7 th
+{
+    font-size: 40px;
+}
+
+#question9 img
+{
+    height: 400px;
+     width: 400px;
+}
+
+#question9 #right
+{
+    height: 300px; width: 800px;
+    
+    background-color: ghostwhite;
+    padding:5PX;
+    float: right;
+    position: relative;
+    bottom: 450px;
+}
+
+#question10
+{
+    height: 600px;
+    width: 600px;
+    background-color: lightgoldenrodyellow;
+    align-items: center;
+    position: relative;
+    left: 500px;
+
+}
